@@ -1,0 +1,27 @@
+h1{
+    color: black;
+    background-color: aquamarine;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    margin: 5px;
+    padding: 10px;
+}
+
+img{
+    width: 500px
+}
+body{
+    color: blueviolet;
+}
+
+h1{
+    color: aqua;
+}
+#intro{
+    color: black;
+}
+.intro{
+    color: brown;
+}
